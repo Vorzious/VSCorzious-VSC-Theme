@@ -1,0 +1,22 @@
+{
+    "name": "vscorzious",
+    "displayName": "VSCorzious",
+    "description": "A dark theme for Visual Studio Code.",
+    "version": "0.0.1",
+    "publisher": "Vorzious",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VSCorzious",
+                "uiTheme": "vs-dark",
+                "path": "./themes/VSCorzious-color-theme.json"
+            }
+        ]
+    }
+}
