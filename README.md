@@ -2,12 +2,12 @@
 
 ## Installation Guide
 ### Windows
-Clone or download this repo and place the directory at
+Clone or download this repository and place the directory at
 
 *`C:\Program Files\Microsoft VS Code\resources\app\extensions.`*
 
 ### OSX
-Clone or download this repo and place the directory at
+Clone or download this repository and place the directory at
 
 *`~/.vscode/extensions`.*
 
