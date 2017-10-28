@@ -12,7 +12,7 @@ Clone or download this repository and place the directory at
 *`~/.vscode/extensions`.*
 
 ### VSC Marketplace
-Coming Soon
+VSCorzious
 
 ## Notes
 ### Latest Release v0.0.1
