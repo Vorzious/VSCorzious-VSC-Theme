@@ -4,13 +4,13 @@ VSCorzious v0.0.1 is a dark GUI and Editor colour theme for Visual Studio Code t
 
 ### **Images**
 #### Preview HTML (EEX)
-<img src="images/Preview-HTML.png" />
+![Https HTML](https://github.com/Vorzious/VSCorzious-VSC-Theme/blob/master/theme-vscorzious-0.0.1/images/Preview-HTML.png?raw=true)
 
 #### Preview CSS
-<img src="images/Preview-CSS.png" />
+![Https Css](https://github.com/Vorzious/VSCorzious-VSC-Theme/blob/master/theme-vscorzious-0.0.1/images/Preview-CSS.png?raw=true)
 
 #### Preview Elixir
-<img src="images/Preview-Elixir.png" />
+![Https Elixir](https://raw.githubusercontent.com/Vorzious/VSCorzious-VSC-Theme/master/theme-vscorzious-0.0.1/images/Preview-Elixir.png)
 
 ### **Supported Languages**
 I have mainly focused on developing this theme for the following languages but most languages should be working just fine. If they are not make sure to send feedback on my Github repository and I'll make sure to work on them.
