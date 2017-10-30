@@ -1,6 +1,6 @@
 # VSCorzious
-### **About v0.0.1**
-VSCorzious v0.0.1 is a dark GUI and Editor colour theme for Visual Studio Code that mainly focuses on fast and easy recognition while still being easy on the eyes. 
+### **About v0.0.2**
+VSCorzious v0.0.2 has made changes to CSS styling to feel better on the eyes and uses a lot less strong and total green colours.
 
 ### **Images**
 #### Preview HTML (EEX)
