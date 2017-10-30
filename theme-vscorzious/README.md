@@ -5,13 +5,13 @@ VSCorzious v0.0.2 has made changes to CSS styling to feel better on the eyes and
 ### **Images**
 #### Preview HTML (EEX)
 
-![Https HTML](https://github.com/Vorzious/VSCorzious-VSC-Theme/blob/develop/theme-vscorzious-0.0.2/images/Preview-HTML.png)
+![Https HTML](https://github.com/Vorzious/VSCorzious-VSC-Theme/blob/develop/theme-vscorzious/images/Preview-HTML.png?raw=true)
 
 #### Preview CSS
-![Https Css](https://github.com/Vorzious/VSCorzious-VSC-Theme/blob/develop/theme-vscorzious-0.0.2/images/Preview-CSS.png)
+![Https Css](https://github.com/Vorzious/VSCorzious-VSC-Theme/blob/develop/theme-vscorzious/images/Preview-CSS.png?raw=true)
 
 #### Preview Elixir
-![Https Elixir](https://github.com/Vorzious/VSCorzious-VSC-Theme/blob/develop/theme-vscorzious-0.0.2/images/Preview-Elixir.png)
+![Https Elixir](https://github.com/Vorzious/VSCorzious-VSC-Theme/blob/develop/theme-vscorzious/images/Preview-Elixir.png?raw=true)
 
 ### **Supported Languages**
 I have mainly focused on developing this theme for the following languages but most languages should be working just fine. If they are not make sure to send feedback on my Github repository and I'll make sure to work on them.
