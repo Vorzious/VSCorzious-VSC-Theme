@@ -497,7 +497,8 @@
         "input.border": "#4e5f6b",
         "inputOption.activeBorder": "#4e5f6b",
         "button.background": "#1e2830",
-        "button.hoverBackground": "#364958"
+        "button.hoverBackground": "#364958",
+        "editorLineNumber.foreground": "#ffffff"
     },
     "name": "VSCorzious"
 }
